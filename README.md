@@ -12,3 +12,5 @@ However if you will try to navigate to those other two links you might find some
 http://marcinnowakowski.github.io/game_of_no
 <br>
 http://marcinnowakowski.github.io/i_dont_know
+
+#### 'no'-LICENCE
